@@ -1,0 +1,2 @@
+# Python
+Pythonの練習
